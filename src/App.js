@@ -154,7 +154,7 @@ function App() {
     </Container>
     </div>
       <>
-      <div class="col-xs-5 col-xs-offset-3" style={{paddingLeft:'500px'}}>
+      <div class="col-xs-5 col-xs-offset-3" style={{paddingLeft:'501px'}}>
 
      
        
