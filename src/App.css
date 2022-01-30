@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -21,12 +23,34 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: red;
 }
 
 .App-link {
   color: #61dafb;
 }
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {width: 250px;}
+
+.child {
+  margin-left: (500px)
+}
+
+
+
 
 @keyframes App-logo-spin {
   from {
